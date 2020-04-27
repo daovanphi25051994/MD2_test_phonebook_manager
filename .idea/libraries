@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="libraryTable">
+    <library name="codegym-file-util">
+      <CLASSES>
+        <root url="file://$USER_HOME$/module2_java_advanted/pattern_adapter_file/codegym-file-util" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$USER_HOME$/module2_java_advanted/pattern_adapter_file/codegym-file-util" recursive="false" />
+    </library>
+  </component>
+</project>
